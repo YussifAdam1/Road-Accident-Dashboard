@@ -1,6 +1,9 @@
 # Road Accident Dashboard (2021-2022)
 This dashboard provides comprehensive insights into road accidents for the years 2021 and 2022. It caters to various stakeholders including the Ministry of Transport, Road Transport Department, Police Force, Emergency Service Department, Road Safety Corps, Transport Operators, Traffic Management Agencies, the public, and media.
 
+# Link for excel file if file is too big for you!!
+https://talnet-my.sharepoint.com/:x:/g/personal/2093962_talnet_nl/EbQCcmhEy_lMsslBzkZa7xcBKjW7ZzYbg16MUKJXo4qlag?email=yussif.adam%40student.rocva.nl&e=3Wdr2x 
+
 # Primary KPIs
 Total Casualties: This primary KPI displays the total number of casualties reported after the incident took place. It prominently features at the top of the dashboard under the title "Road Accident Dashboard."
 
