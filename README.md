@@ -67,3 +67,10 @@ Dark and Light Chart
 File Extension: xlsx
 Number of Rows: 307,963
 Number of Fields: 23
+
+#Pictures
+
+![Screenshot (13)](https://github.com/YussifAdam1/Road-Accident-Dashboard/assets/135960231/bc47c7a5-bca9-4520-9113-41fc94693ee9)
+![Screenshot (14)](https://github.com/YussifAdam1/Road-Accident-Dashboard/assets/135960231/7e00d7de-978b-40d3-b597-dc8391d529a1)
+![Screenshot (15)](https://github.com/YussifAdam1/Road-Accident-Dashboard/assets/135960231/d7cff5de-f97d-4a65-bdf0-c52b35e00f3a)
+![Screenshot (21)](https://github.com/YussifAdam1/Road-Accident-Dashboard/assets/135960231/7e9e1f54-50a9-48d6-9c2f-d328cdbe0248)
